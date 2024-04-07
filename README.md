@@ -1,4 +1,4 @@
-# Interview Questions
+# Front End Interview Questions [2024]
 
 Welcome to the Interview Questions repository! Here you'll find a comprehensive list of interview questions covering various topics related to web development including HTML, CSS, JavaScript, and React.
 
