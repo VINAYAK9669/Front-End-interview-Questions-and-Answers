@@ -14,7 +14,7 @@ Welcome to the Interview Questions repository! Here you'll find a comprehensive 
 Welcome to the HTML Interview Questions repository! Here you'll find a comprehensive list of HTML questions covering basic to advanced topics, including Emmet, forms, semantic HTML, and SEO basics.
 
 ## Basics:
-<details>
+
 1. What does HTML stand for?
 2. What is the purpose of HTML?
 3. What are the basic structure tags of an HTML document?
@@ -25,7 +25,6 @@ Welcome to the HTML Interview Questions repository! Here you'll find a comprehen
 8. Explain the difference between <div> and <span>.
 9. What is the purpose of the <meta> tag?
 10. How do you create a hyperlink in HTML?
-</details>
 
 ## Emmet:
 
