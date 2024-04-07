@@ -25,7 +25,7 @@ Welcome to the HTML Interview Questions repository! Here you'll find a comprehen
 8. Explain the difference between <div> and <span>.
 9. What is the purpose of the <meta> tag?
 10. How do you create a hyperlink in HTML?
-<details>
+</details>
 
 ## Emmet:
 
