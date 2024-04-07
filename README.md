@@ -72,7 +72,7 @@ Welcome to the HTML Interview Questions repository! Here you'll find a comprehen
 40. Explain the concept of web accessibility and how HTML supports it.
 41. How can you implement responsive design using HTML?
 42. What is the purpose of the "aria-" attributes in HTML?
-43. How do you use the `<details>` and `<summary>` elements in HTML?
+43. How do you use the `details` and `summary` elements in HTML?
 44. Explain the purpose of the <picture> element and its attributes.
 45. What is the purpose of the <figure> and <figcaption> elements?
 46. How do you create a custom data attribute in HTML?
