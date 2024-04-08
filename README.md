@@ -22,8 +22,8 @@ Welcome to the HTML Interview Questions repository! Here you'll find a comprehen
 5. What is the <!DOCTYPE> declaration?
 6. How do you create a comment in HTML?
 7. What are empty elements in HTML?
-8. Explain the difference between <div> and <span>.
-9. What is the purpose of the <meta> tag?
+8. Explain the difference between &lt;<div>&lt; and &lt;<span>&lt;.
+9. What is the purpose of the &lt;<meta>&lt; tag?
 10. How do you create a hyperlink in HTML?
 
 ## Emmet:
