@@ -48,7 +48,7 @@ Welcome to the HTML Interview Questions repository! Here you'll find a comprehen
 22. What is semantic HTML?
 23. Provide examples of semantic HTML tags.
 24. Why is semantic HTML important for accessibility and SEO?
-25. Explain the purpose of the <header>, <footer>, <nav>, and <article> tags.
+25. Explain the purpose of the ```<header>```, ```<footer>```, ```<nav>```, and ```<article>``` tags.
 26. How does semantic HTML improve website structure and readability?
 
 ## SEO Basics:
