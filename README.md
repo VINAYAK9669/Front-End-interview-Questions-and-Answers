@@ -40,7 +40,7 @@ Welcome to the HTML Interview Questions repository! Here you'll find a comprehen
 17. What are form controls in HTML?
 18. Explain the difference between the <input> and <textarea> elements.
 19. How do you create a drop-down list in HTML?
-20. Explain the purpose of the "required" attribute in form elements.
+20. Explain the purpose of the ```required``` attribute in form elements.
 21. What is the difference between the "GET" and "POST" methods in form submission?
 
 ## Semantic HTML:
